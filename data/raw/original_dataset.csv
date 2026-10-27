@@ -1,0 +1,361 @@
+﻿Order_ID,Order_Date,Product,Category,Region,Sales_Channel,Customer_Type,Quantity,Unit_Price_INR,Unit_Cost_INR,Discount_Percent,Payment_Method
+ORD0329,2025-01-02,Water Bottle,Lifestyle,Mumbai,Online,Returning,1,650,274.4,0,Cash
+ORD0084,2025-01-03,Office Chair,Furniture,Bengaluru,Retail Store,Returning,2,8925,6000,0,Cash
+ORD0233,2025-01-04,Smartphone,Electronics,Pune,Online,New,5,18900,13770,0.15,Cash
+ORD0110,2025-01-09,Pen Set,Stationery,Bengaluru,Distributor,Returning,4,209,91.8,0.05,Credit Card
+ORD0257,2025-01-10,Backpack,Lifestyle,Mumbai,Online,New,1,1680,867,0.05,Credit Card
+ORD0078,2025-01-15,Backpack,Lifestyle,Mumbai,Retail Store,New,2,1600,833,0,Cash
+ORD0025,2025-01-16,Laptop,Electronics,Pune,Retail Store,New,4,52000,42000,0.1,Cash
+ORD0253,2025-01-18,Notebook Pack,Stationery,Delhi,Distributor,Returning,3,350,176.4,0.15,Credit Card
+ORD0016,2025-01-20,Laptop,Electronics,Bengaluru,Distributor,New,4,52000,42000,0,UPI
+ORD0142,2025-01-20,Desk,Furniture,Pune,Distributor,Returning,4,12000,8976,0.15,Debit Card
+ORD0166,2025-01-20,Wireless Mouse,Accessories,Chennai,Online,Returning,1,1200,612,0,UPI
+ORD0208,2025-01-20,Desk,Furniture,Pune,Distributor,Returning,1,12000,8976,0,UPI
+ORD0280,2025-01-26,Desk,Furniture,Delhi,Online,Returning,1,12600,8624,0,Debit Card
+ORD0071,2025-01-30,Desk,Furniture,Chennai,Retail Store,Returning,3,12000,8976,0,Debit Card
+ORD0262,2025-01-31,Water Bottle,Lifestyle,Chennai,Distributor,Returning,1,682.5,285.6,0,Cash
+ORD0321,2025-01-31,Keyboard,Accessories,Delhi,Distributor,New,3,1800,931,0.05,Cash
+ORD0295,2025-02-03,Desk,Furniture,Bengaluru,Online,Returning,1,11400,8976,0,Net Banking
+ORD0174,2025-02-07,Water Bottle,Lifestyle,Chennai,Online,Returning,1,650,274.4,0.05,Cash
+ORD0277,2025-02-07,Keyboard,Accessories,Delhi,Distributor,Returning,3,1710,931,0,Credit Card
+ORD0038,2025-02-12,Wireless Mouse,Accessories,Delhi,Online,New,1,1140,600,0,Debit Card
+ORD0192,2025-02-12,Smartphone,Electronics,Pune,Distributor,New,1,18000,13500,0.15,Cash
+ORD0294,2025-02-12,Backpack,Lifestyle,Delhi,Distributor,New,2,1600,867,0,Debit Card
+ORD0100,2025-02-14,Keyboard,Accessories,Pune,Online,New,3,1890,969,0,Net Banking
+ORD0201,2025-02-16,Office Chair,Furniture,Chennai,Online,Returning,1,8500,6000,0.15,Net Banking
+ORD0167,2025-02-18,Headphones,Accessories,Pune,Distributor,New,1,2625,1372,0,Net Banking
+ORD0303,2025-02-19,Smartphone,Electronics,Bengaluru,Retail Store,Returning,1,18900,13230,0,UPI
+ORD0215,2025-02-23,Laptop,Electronics,Hyderabad,Distributor,New,1,54600,41160,0,Cash
+ORD0360,2025-02-24,Laptop,Electronics,Delhi,Distributor,Returning,1,52000,42840,0.15,Debit Card
+ORD0009,2025-02-27,Headphones,Accessories,Hyderabad,Online,Returning,3,2500,1428,0.05,Credit Card
+ORD0026,2025-03-02,Tablet,Electronics,Chennai,Retail Store,Returning,1,25200,18500,0.1,Credit Card
+ORD0330,2025-03-03,Tablet,Electronics,Mumbai,Retail Store,Returning,3,22800,18130,0,Cash
+ORD0023,2025-03-04,Office Chair,Furniture,Bengaluru,Distributor,Returning,3,8075,6000,0,Credit Card
+ORD0269,2025-03-06,Tablet,Electronics,Hyderabad,Retail Store,Returning,2,25200,18500,0.1,Credit Card
+ORD0235,2025-03-10,Laptop,Electronics,Delhi,Online,Returning,2,54600,41160,0,Cash
+ORD0282,2025-03-10,Wireless Mouse,Accessories,Delhi,Online,New,1,1140,588,0.05,Credit Card
+ORD0275,2025-03-12,Office Chair,Furniture,Chennai,Distributor,New,2,8500,6000,0,Cash
+ORD0326,2025-03-12,Desk,Furniture,Mumbai,Retail Store,New,4,12000,8800,0,Debit Card
+ORD0085,2025-03-14,Water Bottle,Lifestyle,Hyderabad,Distributor,New,1,650,280,0.1,Credit Card
+ORD0314,2025-03-14,Notebook Pack,Stationery,Bengaluru,Retail Store,Returning,4,332.5,180,0.05,Debit Card
+ORD0051,2025-03-16,Desk,Furniture,Pune,Online,New,1,12000,8976,0.1,UPI
+ORD0194,2025-03-16,Backpack,Lifestyle,Pune,Online,Returning,1,1680,867,0.1,Net Banking
+ORD0230,2025-03-16,Smartphone,Electronics,Pune,Online,Returning,2,17100,13230,0,Cash
+ORD0188,2025-03-17,Desk,Furniture,Delhi,Distributor,New,2,12000,8800,0.15,Credit Card
+ORD0333,2025-03-18,Headphones,Accessories,Bengaluru,Retail Store,Returning,1,2375,1400,0,Debit Card
+ORD0037,2025-03-19,Backpack,Lifestyle,Mumbai,Online,Returning,4,1520,850,0.15,Credit Card
+ORD0213,2025-03-22,Keyboard,Accessories,Bengaluru,Distributor,Returning,4,1800,969,0,Net Banking
+ORD0256,2025-03-24,Water Bottle,Lifestyle,Pune,Retail Store,Returning,5,617.5,274.4,0.1,UPI
+ORD0305,2025-03-26,Keyboard,Accessories,Delhi,Retail Store,New,2,1800,931,0.1,Cash
+ORD0312,2025-03-28,Headphones,Accessories,Bengaluru,Distributor,New,2,2500,1372,0.05,Cash
+ORD0331,2025-03-28,Pen Set,Stationery,Mumbai,Distributor,New,1,220,91.8,0,Cash
+ORD0319,2025-03-30,Office Chair,Furniture,Hyderabad,Online,New,1,8075,6000,0,UPI
+ORD0104,2025-04-03,Office Chair,Furniture,Delhi,Retail Store,New,5,8075,6120,0,UPI
+ORD0121,2025-04-04,Water Bottle,Lifestyle,Bengaluru,Online,New,1,617.5,274.4,0.05,UPI
+ORD0306,2025-04-04,Backpack,Lifestyle,Bengaluru,Distributor,New,1,1600,867,0,Net Banking
+ORD0242,2025-04-05,Notebook Pack,Stationery,Pune,Distributor,New,3,350,176.4,0.05,UPI
+ORD0359,2025-04-06,Keyboard,Accessories,Delhi,Online,Returning,2,1890,931,0.1,Credit Card
+ORD0131,2025-04-09,Backpack,Lifestyle,Mumbai,Distributor,Returning,3,1600,833,0.15,UPI
+ORD0083,2025-04-12,Headphones,Accessories,Bengaluru,Online,New,2,2500,1372,0,Credit Card
+ORD0311,2025-04-13,Tablet,Electronics,Chennai,Online,New,3,25200,18500,0.1,Debit Card
+ORD0346,2025-04-13,Headphones,Accessories,Mumbai,Retail Store,Returning,2,2500,1372,0,Credit Card
+ORD0079,2025-04-16,Smartphone,Electronics,Chennai,Online,New,2,18900,13770,0.1,Debit Card
+ORD0146,2025-04-16,Tablet,Electronics,Bengaluru,Distributor,Returning,1,24000,18500,0,Cash
+ORD0177,2025-04-16,Laptop,Electronics,Mumbai,Distributor,Returning,1,52000,42000,0.1,Credit Card
+ORD0171,2025-04-17,Pen Set,Stationery,Chennai,Distributor,Returning,3,220,90,0,Credit Card
+ORD0354,2025-04-17,Desk,Furniture,Chennai,Online,New,1,11400,8800,0.05,Debit Card
+ORD0091,2025-04-18,Tablet,Electronics,Mumbai,Online,Returning,1,25200,18500,0.1,UPI
+ORD0052,2025-04-20,Office Chair,Furniture,Bengaluru,Online,Returning,1,8925,5880,0.15,Credit Card
+ORD0254,2025-04-20,Laptop,Electronics,Mumbai,Retail Store,Returning,2,52000,42000,0.15,Debit Card
+ORD0001,2025-04-25,Smartphone,Electronics,Delhi,Online,New,3,18000,13500,0,Net Banking
+ORD0287,2025-04-27,Keyboard,Accessories,Mumbai,Distributor,New,1,1890,950,0.05,Credit Card
+ORD0143,2025-04-28,Office Chair,Furniture,Pune,Distributor,Returning,1,8500,6000,0.15,UPI
+ORD0323,2025-04-29,Headphones,Accessories,Bengaluru,Online,Returning,3,2375,1372,0,Debit Card
+ORD0117,2025-04-30,Tablet,Electronics,Hyderabad,Online,New,1,22800,18500,0.1,Net Banking
+ORD0029,2025-05-03,Pen Set,Stationery,Delhi,Distributor,Returning,1,209,88.2,0.1,Debit Card
+ORD0076,2025-05-03,Backpack,Lifestyle,Delhi,Retail Store,Returning,2,1600,850,0,Net Banking
+ORD0212,2025-05-05,Pen Set,Stationery,Bengaluru,Retail Store,New,2,231,91.8,0.05,Debit Card
+ORD0087,2025-05-08,Desk,Furniture,Mumbai,Retail Store,Returning,2,12600,8800,0.15,UPI
+ORD0162,2025-05-08,Wireless Mouse,Accessories,Mumbai,Online,Returning,1,1200,600,0.1,UPI
+ORD0180,2025-05-10,Laptop,Electronics,Mumbai,Online,New,1,52000,42000,0.1,Cash
+ORD0353,2025-05-11,Tablet,Electronics,Mumbai,Retail Store,New,3,25200,18130,0,Net Banking
+ORD0339,2025-05-12,Laptop,Electronics,Pune,Online,New,4,52000,41160,0,Net Banking
+ORD0036,2025-05-14,Water Bottle,Lifestyle,Delhi,Retail Store,New,5,650,285.6,0.15,UPI
+ORD0123,2025-05-14,Notebook Pack,Stationery,Bengaluru,Online,Returning,1,350,176.4,0,Credit Card
+ORD0332,2025-05-14,Headphones,Accessories,Chennai,Retail Store,Returning,1,2500,1428,0.05,Credit Card
+ORD0225,2025-05-17,Desk,Furniture,Pune,Distributor,New,1,12000,8976,0.15,Credit Card
+ORD0309,2025-05-17,Water Bottle,Lifestyle,Mumbai,Online,New,5,650,274.4,0.15,Cash
+ORD0118,2025-05-19,Office Chair,Furniture,Delhi,Online,Returning,2,8925,6000,0.1,Net Banking
+ORD0165,2025-05-21,Smartphone,Electronics,Pune,Distributor,New,1,18900,13500,0.1,UPI
+ORD0251,2025-05-21,Water Bottle,Lifestyle,Mumbai,Retail Store,Returning,1,650,274.4,0,UPI
+ORD0209,2025-05-22,Notebook Pack,Stationery,Pune,Retail Store,New,1,350,183.6,0.15,Cash
+ORD0195,2025-05-28,Keyboard,Accessories,Bengaluru,Retail Store,New,4,1800,950,0.1,Debit Card
+ORD0081,2025-06-02,Pen Set,Stationery,Mumbai,Retail Store,New,4,209,90,0,Net Banking
+ORD0012,2025-06-06,Water Bottle,Lifestyle,Pune,Distributor,Returning,1,682.5,274.4,0.1,Net Banking
+ORD0248,2025-06-06,Headphones,Accessories,Mumbai,Distributor,Returning,1,2625,1400,0.1,Debit Card
+ORD0102,2025-06-08,Laptop,Electronics,Delhi,Retail Store,New,2,52000,42000,0.15,Debit Card
+ORD0004,2025-06-09,Headphones,Accessories,Pune,Online,Returning,5,2500,1372,0,Debit Card
+ORD0034,2025-06-09,Wireless Mouse,Accessories,Delhi,Distributor,Returning,1,1200,600,0,Net Banking
+ORD0185,2025-06-11,Backpack,Lifestyle,Bengaluru,Online,New,3,1600,850,0.15,Credit Card
+ORD0335,2025-06-11,Water Bottle,Lifestyle,Bengaluru,Online,New,1,617.5,280,0.05,Debit Card
+ORD0158,2025-06-16,Tablet,Electronics,Pune,Retail Store,New,3,24000,18870,0,Cash
+ORD0320,2025-06-17,Desk,Furniture,Bengaluru,Distributor,Returning,5,12000,8800,0.05,UPI
+ORD0290,2025-06-20,Desk,Furniture,Mumbai,Online,Returning,1,12000,8800,0.1,UPI
+ORD0184,2025-06-26,Backpack,Lifestyle,Delhi,Online,Returning,2,1520,850,0.05,Debit Card
+ORD0352,2025-06-28,Backpack,Lifestyle,Bengaluru,Retail Store,Returning,5,1600,850,0.15,Debit Card
+ORD0347,2025-06-30,Headphones,Accessories,Mumbai,Distributor,New,2,2500,1372,0.05,Net Banking
+ORD0106,2025-07-04,Tablet,Electronics,Mumbai,Online,New,1,25200,18500,0.1,Cash
+ORD0135,2025-07-04,Wireless Mouse,Accessories,Hyderabad,Online,New,3,1200,600,0.05,Net Banking
+ORD0231,2025-07-04,Tablet,Electronics,Pune,Retail Store,Returning,3,25200,18500,0.1,UPI
+ORD0222,2025-07-09,Tablet,Electronics,Pune,Online,Returning,2,24000,18130,0.05,Debit Card
+ORD0218,2025-07-10,Backpack,Lifestyle,Chennai,Distributor,New,5,1600,833,0,Debit Card
+ORD0263,2025-07-10,Water Bottle,Lifestyle,Chennai,Online,New,2,682.5,274.4,0.15,UPI
+ORD0243,2025-07-12,Pen Set,Stationery,Chennai,Retail Store,New,3,220,91.8,0,Credit Card
+ORD0348,2025-07-12,Desk,Furniture,Hyderabad,Online,New,2,12000,8976,0,Net Banking
+ORD0027,2025-07-14,Wireless Mouse,Accessories,Hyderabad,Online,Returning,1,1140,588,0.05,Net Banking
+ORD0045,2025-07-14,Wireless Mouse,Accessories,Mumbai,Distributor,New,1,1260,588,0.15,Debit Card
+ORD0111,2025-07-14,Pen Set,Stationery,Chennai,Retail Store,New,1,220,88.2,0,Net Banking
+ORD0244,2025-07-14,Backpack,Lifestyle,Delhi,Online,Returning,1,1680,850,0.15,Credit Card
+ORD0097,2025-07-15,Pen Set,Stationery,Pune,Retail Store,Returning,2,220,88.2,0.05,UPI
+ORD0221,2025-07-17,Tablet,Electronics,Chennai,Online,Returning,2,25200,18870,0.15,UPI
+ORD0338,2025-07-22,Office Chair,Furniture,Hyderabad,Online,New,1,8075,6000,0,Cash
+ORD0064,2025-07-24,Smartphone,Electronics,Delhi,Online,New,2,18000,13500,0.1,Cash
+ORD0161,2025-07-24,Pen Set,Stationery,Chennai,Distributor,New,1,220,88.2,0.1,Net Banking
+ORD0274,2025-07-24,Pen Set,Stationery,Delhi,Online,Returning,5,220,88.2,0.1,Debit Card
+ORD0343,2025-07-24,Water Bottle,Lifestyle,Delhi,Retail Store,Returning,4,650,274.4,0.1,Net Banking
+ORD0327,2025-07-25,Wireless Mouse,Accessories,Chennai,Distributor,Returning,2,1200,600,0.1,Credit Card
+ORD0173,2025-07-26,Smartphone,Electronics,Mumbai,Retail Store,Returning,3,17100,13500,0.05,Debit Card
+ORD0030,2025-07-29,Water Bottle,Lifestyle,Bengaluru,Distributor,Returning,3,650,280,0.1,Cash
+ORD0140,2025-07-29,Wireless Mouse,Accessories,Chennai,Online,New,4,1200,600,0.05,Cash
+ORD0285,2025-07-30,Wireless Mouse,Accessories,Bengaluru,Retail Store,Returning,3,1140,588,0.15,Credit Card
+ORD0258,2025-08-05,Backpack,Lifestyle,Hyderabad,Distributor,Returning,4,1680,850,0,Net Banking
+ORD0199,2025-08-09,Pen Set,Stationery,Mumbai,Distributor,Returning,1,209,90,0.1,Debit Card
+ORD0316,2025-08-09,Smartphone,Electronics,Pune,Retail Store,Returning,4,18900,13500,0.15,UPI
+ORD0059,2025-08-13,Wireless Mouse,Accessories,Delhi,Distributor,Returning,2,1140,612,0.05,Credit Card
+ORD0345,2025-08-13,Smartphone,Electronics,Mumbai,Retail Store,New,4,18000,13230,0.1,Credit Card
+ORD0349,2025-08-13,Smartphone,Electronics,Bengaluru,Online,Returning,2,17100,13500,0.15,Credit Card
+ORD0020,2025-08-14,Smartphone,Electronics,Hyderabad,Retail Store,New,1,17100,13500,0,Net Banking
+ORD0163,2025-08-16,Desk,Furniture,Pune,Distributor,Returning,4,11400,8976,0,Credit Card
+ORD0279,2025-08-16,Notebook Pack,Stationery,Pune,Retail Store,New,3,350,183.6,0.05,Debit Card
+ORD0240,2025-08-19,Wireless Mouse,Accessories,Mumbai,Retail Store,Returning,3,1200,612,0,Net Banking
+ORD0308,2025-08-23,Office Chair,Furniture,Chennai,Retail Store,New,1,8075,5880,0.05,Cash
+ORD0217,2025-08-26,Notebook Pack,Stationery,Bengaluru,Online,Returning,3,332.5,180,0.1,Cash
+ORD0116,2025-08-28,Desk,Furniture,Delhi,Retail Store,Returning,1,12000,8800,0,Cash
+ORD0236,2025-08-28,Notebook Pack,Stationery,Chennai,Online,Returning,1,332.5,180,0.15,Net Banking
+ORD0050,2025-08-29,Water Bottle,Lifestyle,Hyderabad,Online,Returning,1,650,280,0,Net Banking
+ORD0186,2025-08-31,Desk,Furniture,Bengaluru,Distributor,New,1,12000,8976,0.15,UPI
+ORD0021,2025-09-01,Wireless Mouse,Accessories,Mumbai,Retail Store,New,2,1200,600,0.15,Cash
+ORD0196,2025-09-05,Desk,Furniture,Hyderabad,Online,Returning,1,12600,8800,0,Cash
+ORD0074,2025-09-07,Wireless Mouse,Accessories,Mumbai,Retail Store,Returning,2,1200,612,0.15,Net Banking
+ORD0070,2025-09-09,Laptop,Electronics,Mumbai,Distributor,Returning,1,54600,42000,0.1,Debit Card
+ORD0182,2025-09-13,Laptop,Electronics,Pune,Distributor,New,1,52000,42840,0.15,Debit Card
+ORD0013,2025-09-15,Notebook Pack,Stationery,Chennai,Distributor,Returning,4,332.5,176.4,0.15,UPI
+ORD0107,2025-09-18,Desk,Furniture,Delhi,Distributor,New,1,11400,8976,0.05,UPI
+ORD0065,2025-09-20,Keyboard,Accessories,Hyderabad,Distributor,New,1,1710,950,0.05,Debit Card
+ORD0183,2025-09-24,Backpack,Lifestyle,Hyderabad,Online,New,2,1600,867,0,Cash
+ORD0115,2025-09-28,Notebook Pack,Stationery,Pune,Distributor,Returning,1,350,180,0.15,UPI
+ORD0086,2025-09-30,Tablet,Electronics,Delhi,Distributor,Returning,1,24000,18500,0.15,Cash
+ORD0264,2025-10-02,Tablet,Electronics,Chennai,Online,New,1,24000,18870,0.05,UPI
+ORD0325,2025-10-05,Laptop,Electronics,Bengaluru,Distributor,New,2,49400,41160,0,Cash
+ORD0138,2025-10-06,Desk,Furniture,Chennai,Online,New,2,12600,8976,0.1,Debit Card
+ORD0214,2025-10-06,Tablet,Electronics,Delhi,Distributor,New,1,24000,18500,0,Credit Card
+ORD0341,2025-10-09,Wireless Mouse,Accessories,Mumbai,Distributor,New,2,1200,588,0.15,Debit Card
+ORD0134,2025-10-13,Pen Set,Stationery,Delhi,Distributor,Returning,1,231,88.2,0.15,UPI
+ORD0098,2025-10-17,Backpack,Lifestyle,Mumbai,Retail Store,Returning,1,1680,850,0.1,Debit Card
+ORD0219,2025-10-19,Desk,Furniture,Pune,Retail Store,New,5,12600,8800,0.15,UPI
+ORD0293,2025-10-23,Tablet,Electronics,Hyderabad,Retail Store,Returning,3,25200,18130,0.15,Net Banking
+ORD0014,2025-10-28,Office Chair,Furniture,Bengaluru,Distributor,New,1,8075,6000,0.15,Debit Card
+ORD0157,2025-10-30,Laptop,Electronics,Bengaluru,Distributor,Returning,2,49400,42000,0.15,Credit Card
+ORD0313,2025-10-30,Water Bottle,Lifestyle,Hyderabad,Online,Returning,1,650,285.6,0.1,Net Banking
+ORD0211,2025-11-01,Wireless Mouse,Accessories,Chennai,Distributor,Returning,3,1260,600,0.1,Debit Card
+ORD0205,2025-11-03,Pen Set,Stationery,Hyderabad,Retail Store,Returning,1,231,90,0.1,UPI
+ORD0260,2025-11-03,Tablet,Electronics,Delhi,Online,New,2,25200,18500,0.1,Net Banking
+ORD0238,2025-11-04,Wireless Mouse,Accessories,Pune,Online,Returning,1,1200,612,0.15,Cash
+ORD0067,2025-11-05,Water Bottle,Lifestyle,Mumbai,Retail Store,Returning,2,617.5,274.4,0.05,UPI
+ORD0126,2025-11-05,Desk,Furniture,Pune,Retail Store,New,2,11400,8624,0.1,Cash
+ORD0148,2025-11-07,Wireless Mouse,Accessories,Pune,Retail Store,New,2,1200,588,0.05,UPI
+ORD0191,2025-11-07,Pen Set,Stationery,Delhi,Distributor,Returning,2,220,90,0,Net Banking
+ORD0265,2025-11-12,Desk,Furniture,Hyderabad,Online,Returning,1,12000,8624,0,Cash
+ORD0156,2025-11-13,Tablet,Electronics,Bengaluru,Online,New,5,24000,18870,0,UPI
+ORD0187,2025-11-13,Office Chair,Furniture,Mumbai,Online,New,5,8925,6120,0.1,Debit Card
+ORD0154,2025-11-14,Water Bottle,Lifestyle,Delhi,Online,Returning,2,682.5,280,0.15,Net Banking
+ORD0130,2025-11-17,Water Bottle,Lifestyle,Hyderabad,Online,New,1,650,285.6,0,Cash
+ORD0288,2025-11-17,Laptop,Electronics,Delhi,Online,Returning,1,49400,42000,0.05,Cash
+ORD0092,2025-11-19,Wireless Mouse,Accessories,Pune,Retail Store,New,1,1260,588,0.15,Credit Card
+ORD0031,2025-11-20,Laptop,Electronics,Bengaluru,Distributor,Returning,1,49400,41160,0.15,Credit Card
+ORD0358,2025-11-23,Wireless Mouse,Accessories,Pune,Online,New,5,1140,600,0,Net Banking
+ORD0272,2025-11-25,Pen Set,Stationery,Bengaluru,Retail Store,Returning,4,220,91.8,0.05,Debit Card
+ORD0190,2025-11-27,Backpack,Lifestyle,Bengaluru,Distributor,Returning,1,1600,833,0.05,Credit Card
+ORD0350,2025-11-28,Smartphone,Electronics,Chennai,Online,Returning,1,18000,13230,0.15,Cash
+ORD0105,2025-11-29,Smartphone,Electronics,Bengaluru,Distributor,Returning,1,18000,13770,0,Net Banking
+ORD0047,2025-12-01,Office Chair,Furniture,Delhi,Retail Store,New,2,8500,6000,0.1,Net Banking
+ORD0062,2025-12-01,Keyboard,Accessories,Chennai,Online,Returning,3,1890,950,0.1,UPI
+ORD0223,2025-12-04,Wireless Mouse,Accessories,Delhi,Online,New,2,1140,600,0.05,UPI
+ORD0075,2025-12-05,Keyboard,Accessories,Bengaluru,Online,New,3,1800,950,0.05,Debit Card
+ORD0220,2025-12-05,Tablet,Electronics,Delhi,Retail Store,Returning,3,24000,18500,0,Net Banking
+ORD0043,2025-12-06,Smartphone,Electronics,Chennai,Online,New,1,18000,13500,0.15,Net Banking
+ORD0040,2025-12-07,Office Chair,Furniture,Delhi,Online,Returning,3,8500,6000,0,UPI
+ORD0145,2025-12-08,Tablet,Electronics,Chennai,Distributor,New,1,22800,18500,0.05,Credit Card
+ORD0137,2025-12-16,Tablet,Electronics,Bengaluru,Online,New,1,24000,18130,0,UPI
+ORD0281,2025-12-18,Desk,Furniture,Hyderabad,Retail Store,Returning,3,12600,8800,0.1,Debit Card
+ORD0234,2025-12-21,Tablet,Electronics,Mumbai,Online,New,1,22800,18130,0.1,Credit Card
+ORD0261,2025-12-21,Smartphone,Electronics,Mumbai,Distributor,Returning,1,18000,13230,0.05,Debit Card
+ORD0032,2025-12-24,Laptop,Electronics,Pune,Distributor,Returning,4,52000,42000,0,Net Banking
+ORD0310,2025-12-26,Backpack,Lifestyle,Delhi,Retail Store,New,1,1600,867,0.15,UPI
+ORD0246,2026-01-04,Notebook Pack,Stationery,Chennai,Online,Returning,4,367.5,176.4,0.1,Debit Card
+ORD0006,2026-01-06,Pen Set,Stationery,Chennai,Online,New,1,209,88.2,0,UPI
+ORD0179,2026-01-08,Notebook Pack,Stationery,Mumbai,Distributor,Returning,3,350,176.4,0,UPI
+ORD0112,2026-01-09,Backpack,Lifestyle,Bengaluru,Online,New,1,1600,850,0.1,Net Banking
+ORD0113,2026-01-10,Notebook Pack,Stationery,Pune,Retail Store,Returning,2,350,180,0.05,UPI
+ORD0203,2026-01-10,Tablet,Electronics,Hyderabad,Online,Returning,1,25200,18130,0,Cash
+ORD0120,2026-01-12,Notebook Pack,Stationery,Chennai,Online,New,4,350,176.4,0.1,Cash
+ORD0160,2026-01-12,Water Bottle,Lifestyle,Pune,Distributor,Returning,4,682.5,285.6,0.05,Credit Card
+ORD0149,2026-01-13,Wireless Mouse,Accessories,Mumbai,Distributor,New,1,1140,612,0.1,Cash
+ORD0181,2026-01-15,Keyboard,Accessories,Chennai,Retail Store,Returning,2,1710,950,0.15,Debit Card
+ORD0152,2026-01-17,Wireless Mouse,Accessories,Hyderabad,Retail Store,New,1,1200,588,0.05,Net Banking
+ORD0155,2026-01-21,Water Bottle,Lifestyle,Mumbai,Retail Store,New,3,650,274.4,0.1,Debit Card
+ORD0276,2026-01-22,Laptop,Electronics,Mumbai,Distributor,Returning,2,54600,42840,0.15,Net Banking
+ORD0007,2026-01-25,Wireless Mouse,Accessories,Chennai,Online,Returning,2,1200,600,0.05,UPI
+ORD0058,2026-01-25,Desk,Furniture,Pune,Distributor,New,1,12000,8800,0.1,Cash
+ORD0082,2026-01-25,Desk,Furniture,Mumbai,Distributor,New,4,12000,8976,0.05,Net Banking
+ORD0324,2026-01-28,Tablet,Electronics,Chennai,Online,Returning,1,22800,18870,0,Debit Card
+ORD0153,2026-01-31,Wireless Mouse,Accessories,Mumbai,Distributor,New,1,1200,600,0,Debit Card
+ORD0164,2026-01-31,Laptop,Electronics,Delhi,Distributor,Returning,1,49400,42000,0,Credit Card
+ORD0356,2026-01-31,Desk,Furniture,Pune,Retail Store,Returning,3,12000,8976,0.1,UPI
+ORD0299,2026-02-07,Desk,Furniture,Pune,Online,New,1,12000,8976,0.1,Cash
+ORD0336,2026-02-10,Notebook Pack,Stationery,Hyderabad,Retail Store,Returning,1,350,180,0,Net Banking
+ORD0255,2026-02-11,Laptop,Electronics,Bengaluru,Distributor,New,1,54600,42840,0.15,Debit Card
+ORD0042,2026-02-13,Keyboard,Accessories,Delhi,Distributor,Returning,1,1710,950,0.05,Net Banking
+ORD0175,2026-02-14,Backpack,Lifestyle,Pune,Distributor,Returning,2,1680,850,0,Debit Card
+ORD0136,2026-02-15,Laptop,Electronics,Bengaluru,Retail Store,Returning,1,49400,41160,0.15,Cash
+ORD0022,2026-02-21,Headphones,Accessories,Pune,Retail Store,New,1,2625,1400,0.1,UPI
+ORD0334,2026-02-21,Laptop,Electronics,Pune,Retail Store,New,2,52000,42840,0.05,UPI
+ORD0057,2026-02-22,Keyboard,Accessories,Pune,Retail Store,New,2,1890,931,0,Net Banking
+ORD0095,2026-02-22,Laptop,Electronics,Delhi,Online,Returning,1,49400,42840,0,Debit Card
+ORD0119,2026-02-22,Wireless Mouse,Accessories,Pune,Online,Returning,1,1200,600,0.1,UPI
+ORD0132,2026-02-25,Keyboard,Accessories,Mumbai,Retail Store,Returning,4,1890,931,0.05,UPI
+ORD0298,2026-02-26,Smartphone,Electronics,Bengaluru,Distributor,Returning,5,18000,13500,0,Credit Card
+ORD0247,2026-02-28,Smartphone,Electronics,Chennai,Distributor,Returning,2,18000,13500,0,Debit Card
+ORD0169,2026-03-03,Tablet,Electronics,Mumbai,Distributor,New,2,22800,18500,0,Cash
+ORD0206,2026-03-03,Pen Set,Stationery,Delhi,Distributor,New,1,209,91.8,0.05,UPI
+ORD0003,2026-03-06,Headphones,Accessories,Delhi,Retail Store,Returning,2,2500,1372,0,Debit Card
+ORD0002,2026-03-09,Smartphone,Electronics,Mumbai,Online,New,1,18000,13500,0.15,Net Banking
+ORD0024,2026-03-09,Tablet,Electronics,Mumbai,Online,New,1,24000,18130,0.1,Net Banking
+ORD0011,2026-03-15,Pen Set,Stationery,Pune,Online,New,1,220,90,0.15,UPI
+ORD0061,2026-03-15,Tablet,Electronics,Pune,Retail Store,New,4,24000,18130,0.05,Cash
+ORD0296,2026-03-15,Tablet,Electronics,Mumbai,Retail Store,Returning,2,24000,18500,0,Net Banking
+ORD0304,2026-03-15,Headphones,Accessories,Chennai,Online,Returning,5,2500,1400,0,Debit Card
+ORD0139,2026-03-17,Laptop,Electronics,Bengaluru,Retail Store,New,1,54600,42000,0,UPI
+ORD0141,2026-03-17,Tablet,Electronics,Pune,Distributor,New,1,24000,18500,0,Cash
+ORD0046,2026-03-18,Laptop,Electronics,Delhi,Retail Store,Returning,4,52000,42000,0,Cash
+ORD0284,2026-03-19,Office Chair,Furniture,Pune,Retail Store,New,1,8500,6120,0.15,Credit Card
+ORD0189,2026-03-20,Notebook Pack,Stationery,Bengaluru,Retail Store,New,4,332.5,176.4,0.15,Credit Card
+ORD0340,2026-03-20,Backpack,Lifestyle,Bengaluru,Retail Store,New,1,1520,867,0.1,Credit Card
+ORD0044,2026-03-21,Keyboard,Accessories,Mumbai,Online,Returning,3,1800,969,0.15,Net Banking
+ORD0069,2026-03-22,Tablet,Electronics,Pune,Distributor,Returning,3,24000,18870,0.1,Debit Card
+ORD0144,2026-03-24,Laptop,Electronics,Chennai,Distributor,Returning,1,54600,41160,0.1,Credit Card
+ORD0094,2026-03-25,Backpack,Lifestyle,Chennai,Distributor,New,2,1520,850,0,Net Banking
+ORD0049,2026-03-29,Desk,Furniture,Chennai,Distributor,Returning,2,12600,8800,0,UPI
+ORD0108,2026-03-29,Keyboard,Accessories,Pune,Retail Store,New,5,1800,969,0.05,Cash
+ORD0127,2026-03-31,Laptop,Electronics,Bengaluru,Retail Store,Returning,4,52000,42000,0,Cash
+ORD0178,2026-03-31,Keyboard,Accessories,Delhi,Online,New,2,1800,969,0.05,Cash
+ORD0307,2026-04-01,Smartphone,Electronics,Delhi,Online,Returning,1,18000,13230,0.1,UPI
+ORD0054,2026-04-02,Tablet,Electronics,Bengaluru,Distributor,Returning,3,25200,18870,0.05,Net Banking
+ORD0355,2026-04-03,Smartphone,Electronics,Chennai,Online,New,1,18000,13230,0.05,UPI
+ORD0202,2026-04-07,Notebook Pack,Stationery,Pune,Retail Store,Returning,1,332.5,180,0,Net Banking
+ORD0129,2026-04-08,Headphones,Accessories,Delhi,Online,Returning,1,2625,1428,0.1,Cash
+ORD0322,2026-04-12,Notebook Pack,Stationery,Bengaluru,Retail Store,New,1,367.5,180,0.05,Net Banking
+ORD0286,2026-04-14,Laptop,Electronics,Pune,Distributor,Returning,1,54600,42000,0.15,Net Banking
+ORD0301,2026-04-15,Water Bottle,Lifestyle,Pune,Online,Returning,2,650,274.4,0.15,Credit Card
+ORD0229,2026-04-19,Water Bottle,Lifestyle,Hyderabad,Distributor,New,3,617.5,285.6,0.05,Net Banking
+ORD0053,2026-04-21,Water Bottle,Lifestyle,Delhi,Distributor,Returning,2,650,285.6,0.15,Net Banking
+ORD0172,2026-04-21,Backpack,Lifestyle,Delhi,Retail Store,New,2,1600,850,0,Debit Card
+ORD0224,2026-04-22,Wireless Mouse,Accessories,Chennai,Distributor,New,1,1200,588,0.05,Credit Card
+ORD0060,2026-04-24,Tablet,Electronics,Mumbai,Distributor,New,5,22800,18870,0.15,UPI
+ORD0114,2026-04-25,Laptop,Electronics,Chennai,Online,Returning,1,52000,42840,0.15,UPI
+ORD0041,2026-04-27,Headphones,Accessories,Bengaluru,Online,New,1,2625,1400,0.05,Credit Card
+ORD0170,2026-04-27,Smartphone,Electronics,Chennai,Online,Returning,2,18000,13500,0,Credit Card
+ORD0125,2026-05-03,Desk,Furniture,Bengaluru,Distributor,New,3,11400,8976,0.15,Net Banking
+ORD0216,2026-05-03,Desk,Furniture,Delhi,Online,New,2,12000,8800,0.05,Net Banking
+ORD0080,2026-05-05,Laptop,Electronics,Mumbai,Distributor,New,3,54600,42840,0,Credit Card
+ORD0357,2026-05-06,Pen Set,Stationery,Hyderabad,Online,Returning,2,220,90,0.1,UPI
+ORD0109,2026-05-10,Laptop,Electronics,Hyderabad,Distributor,Returning,1,52000,42000,0.05,Debit Card
+ORD0055,2026-05-12,Water Bottle,Lifestyle,Bengaluru,Retail Store,Returning,1,682.5,274.4,0.05,Debit Card
+ORD0291,2026-05-12,Tablet,Electronics,Delhi,Retail Store,Returning,1,25200,18870,0.1,Cash
+ORD0344,2026-05-12,Keyboard,Accessories,Bengaluru,Online,Returning,4,1800,969,0.05,Net Banking
+ORD0017,2026-05-13,Laptop,Electronics,Mumbai,Online,Returning,5,52000,42000,0.1,Net Banking
+ORD0035,2026-05-16,Wireless Mouse,Accessories,Chennai,Online,New,4,1140,588,0.1,Debit Card
+ORD0249,2026-05-16,Backpack,Lifestyle,Delhi,Retail Store,New,2,1680,867,0,Credit Card
+ORD0292,2026-05-16,Tablet,Electronics,Hyderabad,Retail Store,New,1,22800,18500,0.05,Net Banking
+ORD0273,2026-05-18,Pen Set,Stationery,Pune,Retail Store,New,3,220,91.8,0.05,Net Banking
+ORD0302,2026-05-22,Wireless Mouse,Accessories,Mumbai,Online,Returning,1,1200,600,0.15,Debit Card
+ORD0270,2026-05-23,Pen Set,Stationery,Chennai,Online,Returning,2,231,88.2,0,Debit Card
+ORD0198,2026-05-26,Notebook Pack,Stationery,Hyderabad,Retail Store,Returning,2,350,183.6,0,Credit Card
+ORD0342,2026-05-26,Office Chair,Furniture,Chennai,Retail Store,New,4,8925,5880,0,Cash
+ORD0010,2026-05-27,Office Chair,Furniture,Bengaluru,Online,Returning,4,8925,6000,0.05,Net Banking
+ORD0151,2026-06-01,Water Bottle,Lifestyle,Mumbai,Distributor,New,1,650,285.6,0.1,Debit Card
+ORD0068,2026-06-03,Water Bottle,Lifestyle,Pune,Retail Store,Returning,1,682.5,285.6,0,Credit Card
+ORD0015,2026-06-04,Pen Set,Stationery,Mumbai,Online,Returning,1,220,90,0.15,Cash
+ORD0096,2026-06-06,Backpack,Lifestyle,Pune,Distributor,New,1,1680,867,0,Cash
+ORD0228,2026-06-07,Desk,Furniture,Pune,Retail Store,New,3,12600,8800,0.15,Net Banking
+ORD0300,2026-06-12,Backpack,Lifestyle,Chennai,Distributor,New,1,1600,867,0.1,UPI
+ORD0283,2026-06-13,Tablet,Electronics,Bengaluru,Retail Store,New,2,24000,18870,0.1,Credit Card
+ORD0019,2026-06-14,Desk,Furniture,Hyderabad,Distributor,New,1,12000,8624,0.05,Net Banking
+ORD0093,2026-06-15,Keyboard,Accessories,Bengaluru,Retail Store,New,2,1890,969,0,Debit Card
+ORD0176,2026-06-16,Wireless Mouse,Accessories,Mumbai,Online,Returning,3,1260,588,0.1,Debit Card
+ORD0204,2026-06-16,Desk,Furniture,Chennai,Online,Returning,1,12000,8800,0.15,Net Banking
+ORD0268,2026-06-18,Tablet,Electronics,Chennai,Retail Store,Returning,2,24000,18500,0.05,Credit Card
+ORD0077,2026-06-22,Pen Set,Stationery,Bengaluru,Retail Store,New,1,209,90,0.05,Debit Card
+ORD0239,2026-06-22,Keyboard,Accessories,Pune,Online,Returning,2,1890,950,0.05,Credit Card
+ORD0033,2026-06-26,Smartphone,Electronics,Chennai,Online,New,2,18000,13230,0,Net Banking
+ORD0241,2026-06-27,Tablet,Electronics,Delhi,Online,Returning,1,24000,18500,0.05,Debit Card
+ORD0028,2026-06-28,Tablet,Electronics,Mumbai,Online,New,1,22800,18500,0,Cash
+ORD0210,2026-06-30,Keyboard,Accessories,Bengaluru,Retail Store,Returning,2,1800,969,0,Credit Card
+ORD0103,2026-07-01,Office Chair,Furniture,Hyderabad,Online,Returning,5,8925,5880,0.15,Credit Card
+ORD0200,2026-07-04,Smartphone,Electronics,Delhi,Retail Store,Returning,3,18900,13500,0.05,Debit Card
+ORD0227,2026-07-04,Tablet,Electronics,Delhi,Distributor,Returning,1,25200,18130,0,UPI
+ORD0317,2026-07-04,Notebook Pack,Stationery,Hyderabad,Distributor,New,2,350,176.4,0.05,Credit Card
+ORD0318,2026-07-04,Keyboard,Accessories,Delhi,Online,New,1,1710,950,0.1,Credit Card
+ORD0297,2026-07-06,Tablet,Electronics,Chennai,Distributor,New,1,24000,18500,0.15,Credit Card
+ORD0063,2026-07-07,Smartphone,Electronics,Delhi,Online,New,5,18000,13500,0,Credit Card
+ORD0232,2026-07-07,Tablet,Electronics,Mumbai,Retail Store,New,2,24000,18130,0,Credit Card
+ORD0056,2026-07-08,Laptop,Electronics,Delhi,Online,New,1,52000,42840,0,Cash
+ORD0193,2026-07-13,Wireless Mouse,Accessories,Delhi,Retail Store,Returning,2,1200,612,0,Cash
+ORD0250,2026-07-14,Desk,Furniture,Delhi,Online,New,1,11400,8624,0,Cash
+ORD0315,2026-07-14,Water Bottle,Lifestyle,Mumbai,Online,New,1,682.5,274.4,0,Debit Card
+ORD0328,2026-07-14,Headphones,Accessories,Mumbai,Retail Store,New,1,2625,1372,0,Debit Card
+ORD0337,2026-07-18,Headphones,Accessories,Hyderabad,Online,New,1,2375,1400,0,Credit Card
+ORD0099,2026-07-20,Notebook Pack,Stationery,Mumbai,Retail Store,New,1,350,180,0,Cash
+ORD0245,2026-07-20,Keyboard,Accessories,Delhi,Retail Store,Returning,3,1890,969,0.15,Debit Card
+ORD0122,2026-07-22,Headphones,Accessories,Mumbai,Online,Returning,2,2500,1400,0,Credit Card
+ORD0073,2026-07-23,Headphones,Accessories,Hyderabad,Retail Store,New,2,2625,1428,0,Cash
+ORD0266,2026-07-25,Notebook Pack,Stationery,Chennai,Distributor,New,2,332.5,176.4,0,Net Banking
+ORD0039,2026-07-28,Office Chair,Furniture,Bengaluru,Retail Store,New,5,8500,6000,0,Credit Card
+ORD0147,2026-08-01,Pen Set,Stationery,Pune,Online,Returning,2,220,90,0,Cash
+ORD0259,2026-08-01,Water Bottle,Lifestyle,Mumbai,Online,Returning,1,650,274.4,0,UPI
+ORD0048,2026-08-06,Wireless Mouse,Accessories,Bengaluru,Retail Store,Returning,1,1140,600,0.05,Cash
+ORD0150,2026-08-09,Water Bottle,Lifestyle,Pune,Online,Returning,1,682.5,280,0,UPI
+ORD0168,2026-08-12,Headphones,Accessories,Mumbai,Retail Store,New,3,2500,1428,0,Net Banking
+ORD0066,2026-08-13,Water Bottle,Lifestyle,Hyderabad,Distributor,New,4,682.5,285.6,0,UPI
+ORD0089,2026-08-14,Smartphone,Electronics,Delhi,Retail Store,Returning,3,18000,13770,0.15,Credit Card
+ORD0133,2026-08-15,Notebook Pack,Stationery,Chennai,Distributor,Returning,1,367.5,180,0,UPI
+ORD0207,2026-08-21,Desk,Furniture,Hyderabad,Distributor,New,1,12600,8800,0,Credit Card
+ORD0090,2026-08-23,Office Chair,Furniture,Chennai,Retail Store,Returning,2,8925,5880,0.1,Debit Card
+ORD0351,2026-08-24,Laptop,Electronics,Delhi,Retail Store,Returning,1,52000,42000,0,Debit Card
+ORD0124,2026-08-26,Keyboard,Accessories,Delhi,Retail Store,New,1,1800,931,0,UPI
+ORD0101,2026-08-28,Keyboard,Accessories,Pune,Online,New,4,1890,931,0.15,Cash
+ORD0072,2026-09-03,Backpack,Lifestyle,Bengaluru,Distributor,Returning,4,1520,850,0,Cash
+ORD0226,2026-09-03,Laptop,Electronics,Hyderabad,Online,New,2,52000,41160,0.15,Net Banking
+ORD0289,2026-09-03,Tablet,Electronics,Delhi,Distributor,New,2,25200,18500,0.1,Net Banking
+ORD0128,2026-09-04,Notebook Pack,Stationery,Delhi,Distributor,New,1,367.5,176.4,0,Cash
+ORD0088,2026-09-05,Smartphone,Electronics,Hyderabad,Online,New,4,18000,13500,0,Debit Card
+ORD0237,2026-09-05,Water Bottle,Lifestyle,Delhi,Distributor,New,3,650,280,0,Cash
+ORD0267,2026-09-05,Keyboard,Accessories,Pune,Online,New,4,1710,950,0.1,Net Banking
+ORD0005,2026-09-11,Wireless Mouse,Accessories,Hyderabad,Distributor,Returning,3,1260,588,0.1,Net Banking
+ORD0018,2026-09-14,Office Chair,Furniture,Delhi,Distributor,Returning,5,8500,6000,0.1,Cash
+ORD0008,2026-09-16,Water Bottle,Lifestyle,Pune,Retail Store,New,1,650,280,0.1,Debit Card
+ORD0159,2026-09-18,Wireless Mouse,Accessories,Bengaluru,Retail Store,Returning,3,1260,600,0.15,Credit Card
+ORD0278,2026-09-20,Smartphone,Electronics,Hyderabad,Online,New,2,18900,13500,0.1,Debit Card
+ORD0197,2026-09-23,Office Chair,Furniture,Delhi,Retail Store,New,1,8500,6000,0.15,Credit Card
+ORD0252,2026-09-25,Water Bottle,Lifestyle,Hyderabad,Distributor,Returning,2,682.5,285.6,0,UPI
+ORD0271,2026-09-28,Office Chair,Furniture,Pune,Distributor,New,3,8500,6120,0.05,Debit Card

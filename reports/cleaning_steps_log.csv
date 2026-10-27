@@ -1,0 +1,7 @@
+step,records_affected,rationale
+Parse Order_Date as datetime,0,Standardize date type for time-based analysis; unparseable values become missing and are reported.
+Convert Quantity to numeric,0,Ensure numeric computations are valid; coercion failures are surfaced in the audit.
+Convert Unit_Price_INR to numeric,0,Ensure numeric computations are valid; coercion failures are surfaced in the audit.
+Convert Unit_Cost_INR to numeric,0,Ensure numeric computations are valid; coercion failures are surfaced in the audit.
+Convert Discount_Percent to numeric,0,Ensure numeric computations are valid; coercion failures are surfaced in the audit.
+Remove exact duplicate rows,0,Exact duplicate records inflate counts and totals. No rows are removed unless every field matches.

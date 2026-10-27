@@ -1,0 +1,35 @@
+{
+  "before": {
+    "rows": 360,
+    "columns": 12,
+    "total_missing_cells": 0,
+    "columns_with_missing_values": 0,
+    "exact_duplicate_rows": 0,
+    "duplicate_order_ids": 0,
+    "invalid_dates": 0,
+    "blank_string_cells": 0
+  },
+  "after": {
+    "rows": 360,
+    "columns": 12,
+    "total_missing_cells": 0,
+    "columns_with_missing_values": 0,
+    "exact_duplicate_rows": 0,
+    "duplicate_order_ids": 0,
+    "invalid_dates": 0,
+    "blank_string_cells": 0
+  },
+  "logical_validation_checks": {
+    "quantity_nonpositive": 0,
+    "unit_price_nonpositive": 0,
+    "unit_cost_negative": 0,
+    "discount_out_of_range": 0,
+    "cost_greater_than_price": 0,
+    "duplicate_order_ids": 0
+  },
+  "notes": [
+    "IQR outliers are flagged, not removed automatically.",
+    "Missing values are not imputed without domain evidence.",
+    "The raw dataset is never modified."
+  ]
+}

@@ -1,0 +1,9 @@
+metric,before,after
+rows,360,360
+columns,12,12
+total_missing_cells,0,0
+columns_with_missing_values,0,0
+exact_duplicate_rows,0,0
+duplicate_order_ids,0,0
+invalid_dates,0,0
+blank_string_cells,0,0

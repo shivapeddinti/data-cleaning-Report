@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run data cleaning pipeline",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"src\\data_cleaning.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
