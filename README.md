@@ -38,3 +38,14 @@ Open `notebooks/data_cleaning_analysis.ipynb` in Jupyter and run all cells. The 
 
 ## Limitations
 The data-quality conclusions apply to this supplied sample and the implemented rules. A statistically unusual value is not necessarily a data error. Business owners should confirm product-specific valid ranges before any outlier correction.
+
+## Requirements/libraies
+pandas>=2.0
+numpy>=1.24
+jupyter>=1.0
+matplotlib>=3.7
+
+
+
+
+
